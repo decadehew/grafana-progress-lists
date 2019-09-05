@@ -1,12 +1,12 @@
 {
   "type": "panel",
   "name": "Progress List",
-  "id": "corpglory-progresslist-panel",
+  "id": "decadehew-progresslist-panel",
   "info": {
     "description": "A panel showing list of progress-like items in one board",
     "author": {
-      "name": "CorpGlory Inc.",
-      "url": "https://github.com/corpglory/grafana-progress-list"
+      "name": "DecadeHew",
+      "url": "https://github.com/decadehew/grafana-progress-lists"
     },
     "keywords": [ ],
     "logos": {
